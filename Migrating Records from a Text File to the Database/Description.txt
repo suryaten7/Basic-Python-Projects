@@ -1,0 +1,2 @@
+to run this program you have to install postgresql database in your computer.
+connect our python script to postgresql db install psycopg2 using pip
