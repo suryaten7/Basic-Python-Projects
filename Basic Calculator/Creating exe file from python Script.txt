@@ -1,0 +1,4 @@
+Creating exe file from python Script
+1.on cmd:
+  >pip install pyinstaller
+2.>pyinstaller --onefile mycal.py
