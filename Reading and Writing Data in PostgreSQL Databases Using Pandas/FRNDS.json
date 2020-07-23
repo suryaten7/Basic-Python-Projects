@@ -1,0 +1,18 @@
+[
+  {
+    "ID": 6,
+    "FirstName": "SHANMUGARAJ",
+    "LastName": "V",
+    "Age": 21,
+    "College": "Gtec",
+    "Place": "VELLORE",
+  },
+  {
+    "ID": 7,
+    "FirstName": "ABISHEK",
+    "LastName": "S",
+    "Age": 22,
+    "College": "VIT",
+    "Place": "VELLORE",
+  }
+]
