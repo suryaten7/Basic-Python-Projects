@@ -1,0 +1,3 @@
+If you want to run this program in your computer you should have install postgreqsl 
+connect with sqlachemy
+pip install pandas
