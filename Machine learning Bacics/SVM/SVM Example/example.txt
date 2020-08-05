@@ -1,0 +1,1 @@
+svm basic example using breast cancer(built-in data in sklearn)
