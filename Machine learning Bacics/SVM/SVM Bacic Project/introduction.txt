@@ -1,0 +1,1 @@
+basic svm project using buil-in data (sklearn)
