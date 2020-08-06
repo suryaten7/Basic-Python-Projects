@@ -1,0 +1,2 @@
+here we are using Kmeans algorithm
+its a unsupervised ML algorithm
